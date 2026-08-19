@@ -45,8 +45,8 @@ Como também não havia acesso ao Power BI Service para publicação, o relatór
 
 | Arquivo | Descrição |
 |---|---|
-| `relatorio.pbix` | Arquivo original do projeto Power BI |
-| `relatorio.pdf` | Exportação em PDF do relatório completo |
+| `relatorio_v2.pbix` | Arquivo original do projeto Power BI |
+| `relatorio_v2.pdf` | Exportação em PDF do relatório completo  |
 
 ## 🖼️ Prévia da página 4
 <img width="1118" height="622" alt="Distribuição  de Vendas" src="https://github.com/user-attachments/assets/06c04d46-70c7-4527-9b2a-50d32fa66745" />
