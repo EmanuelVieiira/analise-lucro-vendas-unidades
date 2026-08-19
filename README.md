@@ -49,8 +49,7 @@ Como também não havia acesso ao Power BI Service para publicação, o relatór
 | `relatorio.pdf` | Exportação em PDF do relatório completo |
 
 ## 🖼️ Prévia da página 4
-<img width="476" height="407" alt="Captura de tela 2026-08-05 140548" src="https://github.com/user-attachments/assets/4859868a-8e1c-4536-ac08-2661e9bac522" />
-
+<img width="1118" height="622" alt="Distribuição  de Vendas" src="https://github.com/user-attachments/assets/06c04d46-70c7-4527-9b2a-50d32fa66745" />
 
 
 ---
